@@ -4,15 +4,16 @@ title: Cloning the Repo
 sidebar_label: Cloning the Repo
 ---
 
+# Cloning the Repository
 
-To clone the repository, use the following command:
+To contribute to this project, you'll first need to clone the repository to your local machine. Follow the steps below to get started:
+
+## Step 1: Clone the Repository
+
+Use the following command to clone the repository:
 
 ```bash
-git clone https://github.com/your-repo.git
+git clone https://github.com/MambaCodes/wstack.git
 ```
 
-:::tip TIP
-
-Gotta setup this shit fast
-
-:::
+![Clone Repository](/img/installation/git_clone.jpg)

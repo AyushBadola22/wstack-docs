@@ -4,17 +4,21 @@ title: Common Commands
 sidebar_label: Common Commands
 ---
 
+# Common Commands
 
+Below are some essential commands you will frequently use.
 
-Here are some common commands you will use:
+### 🚀 Useful Commands
 
 ```bash
-npm install
-npm start
-npm run build
+pnpm install  //Install dependencies
+pnpm dev      //Run the development server
+pnpm test     //Run Tests
+pnpm lint     //Lint Code
 ```
-:::danger Take care
 
-Gotta take care
+:::danger ⚠️ Important
 
-:::
+1. Throughout the project **always use pnpm commands** instead of npm.
+2. Ensure you follow best practices while executing commands to prevent issues.  
+   :::
